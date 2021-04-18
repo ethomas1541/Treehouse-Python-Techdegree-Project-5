@@ -1,0 +1,7 @@
+click==7.1.2
+Flask==1.1.2
+Flask-WTF==0.14.3
+itsdangerous==1.1.0
+Jinja2==2.11.3
+peewee==3.14.4
+Werkzeug==1.0.1
